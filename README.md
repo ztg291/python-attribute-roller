@@ -59,7 +59,7 @@ cd python-attribute-roller
 Run the program:
 
 ```bash
-python3 IVIProject.py
+python3 attribute_roller.py
 ```
 
 ## Future Improvements
